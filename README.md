@@ -12,13 +12,13 @@
 
 * `apt update`
 * `apt install git curl php openssh-server -y`
-* `git clone git://github.com/mouricedevs/social-hacker.git`
+* `git clone https://github.com/mouricedevs/social-hacker.git`
 * `cd social-hacher`
 #### > Run : `bash hack.sh`
 
 ## Single Command :
 ```
-apt update ; apt install git curl php openssh-server -y ; git clone git://github.com/mouricedevs/social-hacker.git ; cd social-hacker ; bash hack.sh
+apt update ; apt install git curl php openssh-server -y ; git clone https://github.com/mouricedevs/social-hacker.git ; cd social-hacker ; bash hack.sh
 ```
 
 ## Features :
